@@ -30,7 +30,10 @@
 #fikalista {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 50%;
+  margin-left: 25%;
+  position: relative;
+  z-index: 2;
 }
 
 #fikalista td, #fikalista th {
