@@ -5,14 +5,14 @@
 }
 
 #schema-parent {
-    margin-bottom: -20vh;
+    margin-bottom: -40vh;
 }
 
 #schema {
     position: relative;
     width: 100%;
     height: 100%;
-    margin-top: -60px;
+    margin-top: -80px;
 }
 
 #mat {
