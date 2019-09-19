@@ -1,11 +1,15 @@
 .parent {
     width: 100%;
-    height: 140vh;
     position: relative;
 }
 
-#schema-parent {
+#schema-div {
     margin-bottom: -50vh;
+    height: 140vh;
+}
+
+#mat-div {
+    height: 45vh;
 }
 
 #schema {
