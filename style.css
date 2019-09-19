@@ -4,6 +4,10 @@
     position: relative;
 }
 
+#schema-parent {
+    margin-bottom: -20vh;
+}
+
 #schema {
     position: relative;
     width: 100%;
