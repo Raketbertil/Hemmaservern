@@ -30,8 +30,8 @@
 #infolista {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  width: 50%;
-  margin-left: 25%;
+  width: 80%;
+  margin-left: 10%;
   position: relative;
   z-index: 2;
 }
