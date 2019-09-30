@@ -25,9 +25,9 @@
     position: relative;
 }
 
-/* Fikalistan */
+/* infolistan */
 
-#fikalista {
+#infolista {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 50%;
@@ -36,24 +36,29 @@
   z-index: 2;
 }
 
-#fikalista td, #fikalista th {
+#infolista td, #infolista th {
   border: 1px solid #ddd;
   padding: 8px;
 }
 
-#fikalista tr {
+#infolista tr {
     background-color: #CCCCCC;
 }
 
-#fikalista tr:nth-child(even){
+#infolista tr:nth-child(even){
     background-color: #B3B3B3;
 }
 
-#fikalista tr:hover {
+#infolista tbody>tr>:nth-child(1){
+    text-align: center;
+    font-weight: bold;
+}
+
+#infolista tr:hover {
     background-color: #ddd;
 }
 
-#fikalista td:nth-child(1){
+#infolista td:nth-child(1){
     width:  20%;
     font-weight: bold;
 }
@@ -62,7 +67,7 @@
     color: red;
 }
 
-#fikalista th {
+#infolista th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
@@ -70,4 +75,7 @@
   color: white;
 }
 
+.lov {
+    background-color: indianred;
+}
 
