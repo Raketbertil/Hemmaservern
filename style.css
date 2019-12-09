@@ -27,8 +27,9 @@
     position: relative;
 }
 
-.feed-title{
+.feed-item-title {
     color: red; 
+    z-index: -1;
 }
 
 
