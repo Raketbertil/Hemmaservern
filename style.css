@@ -27,9 +27,12 @@
     position: relative;
 }
 
+#rss-script {
+    position: relative;
+}
+
 .feed-item-title {
     color: red; 
-    z-index: -1;
 }
 
 
