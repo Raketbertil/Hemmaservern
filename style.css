@@ -8,6 +8,8 @@
     height: 140vh;
 }
 
+/* Matlistan */
+
 #mat-div {
     height: 30vh;
 }
@@ -24,6 +26,12 @@
     height: 100%;
     position: relative;
 }
+
+.feed-title{
+    color: red; 
+}
+
+
 
 /* infolistan */
 
