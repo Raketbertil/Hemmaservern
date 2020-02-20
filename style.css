@@ -23,7 +23,7 @@
 /* ändrar beroende på skärm */
 @media only screen and (min-width: 1000px){
     #schema-div {
-        margin-bottom: -20vh;
+        margin-bottom: -30vh;
     }
 }
 
