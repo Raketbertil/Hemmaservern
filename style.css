@@ -4,7 +4,6 @@
 }
 
 #schema-div {
-    
     height: 140vh;
 }
 
@@ -15,21 +14,24 @@
     margin-top: -80px;
 }
 
-/* Matlistan */
-#mat-div {
-    height: 30vh;
-}
-
 /* ändrar beroende på skärm */
 @media only screen and (min-width: 1000px){
     #schema-div {
         margin-bottom: -30vh;
+    }
+    
+    #mat-div {
+        height: 80vh;
     }
 }
 
 @media only screen and (max-width: 999px){
     #schema-div {
         margin-bottom: -50vh;
+    }
+    
+    #mat-div {
+        height: 30vh;
     }
 }
 
